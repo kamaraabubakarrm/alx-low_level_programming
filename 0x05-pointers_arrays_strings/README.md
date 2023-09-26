@@ -1,1 +1,1 @@
-The programming is centerred around Pointers and Arrays stings
+This programme is centerred on Pointers and Array Strings
