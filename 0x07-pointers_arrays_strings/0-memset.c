@@ -1,11 +1,11 @@
-#include "main.h"
 
 /**
- * _memset - fills string with constant char b upto n bytes
- * @s: input pointer to string
- * @b: constant char
- * @n: number of bytes
- * Return: pointer to s String
+ * _memset - a function ...
+ * @s: the chaine
+ * @b: the char
+ * @n: the int
+ *
+ * Return: 1 or 0
  */
 
 char *_memset(char *s, char b, unsigned int n)
